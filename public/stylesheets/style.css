@@ -1,0 +1,136 @@
+/* .active {
+  border-bottom: 2px solid #4b71fc;
+} */
+
+.main-color {
+  color: #4b71fc;
+}
+
+#real {
+  background-color: white;
+}
+
+#real a{
+  margin: 0em;
+  color: #636363;
+  /* background-color: blue; */
+}
+
+/* .tabs .tab a {
+  padding: 0 14px;
+} */
+
+#real .active {
+  color: #4b71fc;
+}
+
+#real .up-links a:hover {
+  color: #4b71fc;
+  background-color: white;
+}
+
+ .card, #real {
+  box-shadow: none;
+}
+
+#all-celebs, #all-activities {
+  margin-top: 3em;
+  padding: 2em;
+}
+
+#all-celebs h4 {
+  color: #4b71fc;
+}
+
+.card h5, .card p {
+  margin: 0em;
+}
+
+.card h5 small {
+  color: #4b71fc;
+}
+
+.star {
+  color: #4b71fc;
+  font-size: 18px;
+}
+
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.breadcrumb:before {
+  color: #636363;
+}
+
+nav {
+  background-color: white;
+  box-shadow: none;
+}
+
+.btn {
+  padding: 0 1rem;
+}
+
+.centertext {
+  text-align: center;
+}
+
+.dropdown-content li>span {
+  color: rgb(75, 113, 252);
+<<<<<<< HEAD
+}
+
+span.badge.new {
+  background-color: #ffffff;
+}
+=======
+}
+>>>>>>> 9a8d350698ad83d3265890b6e1b7a69bc11694e5
